@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**light4/light4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [![Codewars][codewars_badge]][codewars_profile]
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[codewars_badge]: https://www.codewars.com/users/lightning1141/badges/small
+[codewars_profile]: https://www.codewars.com/users/lightning1141
