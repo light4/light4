@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### Some PRs
+* https://github.com/rust-lang/rust/pull/94391
+* https://github.com/datafuselabs/databend/pull/4473
+* https://github.com/datafuselabs/databend/pull/4463
+* https://github.com/datafuselabs/databend/pull/4366
+* https://github.com/datafuselabs/databend/pull/4461
+* https://github.com/jorgecarleitao/parquet2/pull/93
+* https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/pull/128
+* https://github.com/ceph/ceph-rust/pull/72
+* https://github.com/rust-lang/glacier/pull/602
+
+#### Other
 * [![Codewars][codewars_badge]][codewars_profile]
 
 <!--
