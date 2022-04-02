@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Some PRs
+#### Some Merged PRs
 
 * https://github.com/rust-lang/rust/pull/94391
 * https://github.com/bevyengine/bevy/pull/4387
