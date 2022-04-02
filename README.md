@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 #### Some PRs
+
 * https://github.com/rust-lang/rust/pull/94391
+* https://github.com/bevyengine/bevy/pull/4387
 * https://github.com/datafuselabs/databend/pull/4473
 * https://github.com/datafuselabs/databend/pull/4463
 * https://github.com/datafuselabs/databend/pull/4366
