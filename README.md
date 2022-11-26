@@ -4,7 +4,7 @@
 [My Solutions](https://github.com/light4/codewars)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=light4&show_icons=true&theme=onedark" />
+  <img src="https://i01.io/api/stats?user=light4&show_icons=true&theme=onedark" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light4&theme=onedark&hide=html" />
