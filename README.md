@@ -16,7 +16,7 @@ Stats powered by:
 
 [![Github Stats Repo][stats_repo_badge]][stats_repo]
 
-<a rel="me" href="https://mastodon.xyz/@lightning1141">@lightning1141@mastodon.xyz</a>
+<a rel="me" href="https://mastodon.xyz/@lightning1141">Mastodon</a>
 
 [github_stats_svg]: https://i01.io/api/stats?user=light4&show_icons=true&theme=onedark
 [top_langs_svg]: https://i01.io/api/stats/top-langs?user=light4&hide=html
